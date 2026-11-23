@@ -1,0 +1,6 @@
+title: Karan Raj Gupta
+description: AI infrastructure portfolio. LLM serving on NVIDIA H200, GPU benchmarking, private AI, operations and web apps.
+theme: jekyll-theme-cayman
+exclude:
+  - tools/tests
+  - .github
